@@ -1,0 +1,14 @@
+Ethereum                                Tron
+
+Solidity                                Solidity
+solc                                    solc
+
+
+
+web3/ethers                             tronweb
+infura                                  trongrid
+
+@truffle/hdwallet-provider              @opentron/tronlink-provider
+
+etherscan                                tronscan 
+rinkeby                                   shasta
